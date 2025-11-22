@@ -17,3 +17,7 @@ https://www.youtube.com/embed/7-Qf3g-0xEI
 #Wildlife & Nature - Official live page
 #EXTINF:-1 tvg-name="Wildlife & Nature Documentaries" group-title="International",Wildlife & Nature Documentaries
 https://www.youtube.com/embed/daqB3i9WYIY
+
+#Test - Official live page
+#EXTINF:-1 tvg-name="Test" group-title="International",Test
+http://wslb.dobratv.net:8877/usk/tracks-v1/index.fmp4.m3u8
