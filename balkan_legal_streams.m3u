@@ -41,3 +41,7 @@ https://www.france24.com/en/live
 #Euronews - Official live page
 #EXTINF:-1 tvg-name="Euronews" group-title="International",Euronews Live
 https://www.euronews.com/live
+
+#Televizija 5 - Official live page
+#EXTINF:-1 tvg-name="Televizija 5" group-title="Bosnia",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
