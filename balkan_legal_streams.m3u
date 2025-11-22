@@ -1,0 +1,43 @@
+#EXTM3U
+# Legal public/live streams for Bosnia & Herzegovina and region (official live pages)
+# Note: these are official live pages — many IPTV players require raw HLS/.m3u8 links or a browser.
+
+#BHRT - BHT1 (official live page)
+#EXTINF:-1 tvg-id="BHT1" tvg-name="BHT1" group-title="Bosnia",BHT1 (BHRT)
+https://www.bhrt.ba/uzivo/tvhd
+
+#Federalna Televizija (FTV) - official page
+#EXTINF:-1 tvg-name="FTV" group-title="Bosnia",FTV (Federalna)
+https://federalna.ba/
+
+#OBN TV - official site (has live player / play section)
+#EXTINF:-1 tvg-name="OBN" group-title="Bosnia",OBN
+https://obn.ba/
+
+#Hayat TV - official Play / Live page
+#EXTINF:-1 tvg-name="Hayat" group-title="Bosnia",Hayat TV
+https://www.hayat.ba/play
+
+#RTRS - Radio Televizija Republike Srpske (live)
+#EXTINF:-1 tvg-name="RTRS" group-title="Bosnia",RTRS
+https://www.rtrs.tv/program/uzivo.php?c=1
+
+#HRTi (Hrvatska) - HRT internet service (may require HRTi access)
+#EXTINF:-1 tvg-name="HRTi" group-title="Croatia",HRTi (HRT)
+https://hrti.hrt.hr/
+
+#RTS (Serbia) - official site (apps / live)
+#EXTINF:-1 tvg-name="RTS" group-title="Serbia",RTS
+https://www.rts.rs/
+
+#DW - Deutsche Welle (official live / YouTube)
+#EXTINF:-1 tvg-name="DW" group-title="International",DW News
+https://www.dw.com/en/top-stories/s-9097
+
+#France 24 - Official live page (EN/FR/AR)
+#EXTINF:-1 tvg-name="France24" group-title="International",France 24 (EN)
+https://www.france24.com/en/live
+
+#Euronews - Official live page
+#EXTINF:-1 tvg-name="Euronews" group-title="International",Euronews Live
+https://www.euronews.com/live
